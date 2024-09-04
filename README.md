@@ -1,3 +1,3 @@
 # 3js projects
 
-## This is a list of projects done with three js
+This is a list of projects done with three js
